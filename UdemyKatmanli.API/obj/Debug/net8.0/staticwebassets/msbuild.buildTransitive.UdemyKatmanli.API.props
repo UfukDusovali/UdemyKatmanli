@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UdemyKatmanli.API.props" />
+</Project>
