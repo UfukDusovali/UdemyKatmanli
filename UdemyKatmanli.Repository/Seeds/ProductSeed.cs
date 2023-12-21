@@ -18,8 +18,7 @@ public class ProductSeed : IEntityTypeConfiguration<Product>
             CategoryId = 1,
             Name = "Kalem 1",
             Price = 100,
-            Stock = 20,
-            CreatedDate = DateTime.Now
+            Stock = 20
 
 
         },
@@ -29,8 +28,7 @@ public class ProductSeed : IEntityTypeConfiguration<Product>
                 CategoryId = 1,
                 Name = "Kalem 2",
                 Price = 200,
-                Stock = 30,
-                CreatedDate = DateTime.Now
+                Stock = 30
 
 
             },
@@ -40,8 +38,7 @@ public class ProductSeed : IEntityTypeConfiguration<Product>
                  CategoryId = 1,
                  Name = "Kalem 3",
                  Price = 600,
-                 Stock = 60,
-                 CreatedDate = DateTime.Now
+                 Stock = 60
 
 
              },
@@ -51,8 +48,7 @@ public class ProductSeed : IEntityTypeConfiguration<Product>
                    CategoryId = 2,
                    Name = "Kitap 1",
                    Price = 600,
-                   Stock = 60,
-                   CreatedDate = DateTime.Now
+                   Stock = 60
 
 
                },
@@ -62,8 +58,7 @@ public class ProductSeed : IEntityTypeConfiguration<Product>
                    CategoryId = 2,
                    Name = "Kitap 2",
                    Price = 6600,
-                   Stock = 320,
-                   CreatedDate = DateTime.Now
+                   Stock = 320
 
 
                });
