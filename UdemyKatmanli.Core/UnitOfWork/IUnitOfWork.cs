@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace UdemyKatmanli.Core.UnitOfWork;
 
-public interface IUnitOfWork<T> where T : class
+public interface IUnitOfWork
 {
     Task CommitAsync();
     void Commit();
