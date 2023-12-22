@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using UdemyKatmanli.Core.Repositories;
-using UdemyKatmanli.Repository.DbContexts;
+using UdemyKatmanli.Repository.ConDbContext;
+
 
 namespace UdemyKatmanli.Repository.Repositories;
 

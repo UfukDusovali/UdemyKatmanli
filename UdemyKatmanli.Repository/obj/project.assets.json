@@ -1477,6 +1477,16 @@
             "rid": "win"
           }
         }
+      },
+      "UdemyKatmanli.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UdemyKatmanli.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UdemyKatmanli.Core.dll": {}
+        }
       }
     }
   },
@@ -4006,6 +4016,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "UdemyKatmanli.Core/1.0.0": {
+      "type": "project",
+      "path": "../UdemyKatmanli.Core/UdemyKatmanli.Core.csproj",
+      "msbuildProject": "../UdemyKatmanli.Core/UdemyKatmanli.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4013,7 +4028,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
+      "UdemyKatmanli.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4022,11 +4038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
       "projectName": "UdemyKatmanli.Repository",
-      "projectPath": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4040,7 +4056,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

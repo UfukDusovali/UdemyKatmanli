@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uqKAPVyFHVg5U0Tahgao6U0JxrxP/OAL/eh3nD6YOrBoopOzDudg3PJUk5jGShWmsOXfyVw8ALnRCdPMsFmWMg==",
+  "dgSpecHash": "MFyRZYpcB2injriTewGlI6xSbQvDMoOCIMbi/CHJXB0tchlNH8qN6bl/wlH4fTgrDvIq5+70aw+6hJ37BDZFbw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Repository\\UdemyKatmanli.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

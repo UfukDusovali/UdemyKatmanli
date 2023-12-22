@@ -10,3 +10,9 @@ C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\Udemy
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\refint\UdemyKatmanli.Service.dll
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.pdb
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\ref\UdemyKatmanli.Service.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Core.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Repository.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Repository.pdb
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Core.pdb
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.csproj.CopyComplete

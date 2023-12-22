@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using UdemyKatmanli.Core.UnitOfWork;
-using UdemyKatmanli.Repository.DbContexts;
+using UdemyKatmanli.Repository.ConDbContext;
+
 
 namespace UdemyKatmanli.Repository.UnitOfWork;
 
@@ -13,6 +14,7 @@ public class UnitOfWork : IUnitOfWork
 
     public UnitOfWork(AppDbContext context)
     {
+        _context = context;
     }
 
     public void Commit()
