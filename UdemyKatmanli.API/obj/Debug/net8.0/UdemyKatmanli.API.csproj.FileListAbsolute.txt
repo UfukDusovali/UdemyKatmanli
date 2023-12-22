@@ -31,3 +31,4 @@ C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.API\obj\Debug\net8.0\refint\Ud
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.API\obj\Debug\net8.0\UdemyKatmanli.API.pdb
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.API\obj\Debug\net8.0\UdemyKatmanli.API.genruntimeconfig.cache
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.API\obj\Debug\net8.0\ref\UdemyKatmanli.API.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.API\obj\Debug\net8.0\UdemyKatmanli.API.sourcelink.json

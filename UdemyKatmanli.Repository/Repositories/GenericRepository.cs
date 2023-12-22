@@ -4,6 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using UdemyKatmanli.Core.Repositories;
 using UdemyKatmanli.Repository.DbContexts;
 
@@ -14,56 +15,54 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
 
     protected readonly AppDbContext _context;
     private readonly DbSet<T> _dbSet;
-    public GenericRepository(AppDbContext context, DbSet<T> dbSet)
+    public GenericRepository(AppDbContext context)
     {
         _context = context;
-        _dbSet = dbSet;
+        _dbSet = _context.Set<T>();
     }
 
-
-
-    public Task AddAsync(T entity)
+    public async Task AddAsync(T entity)
     {
-        throw new NotImplementedException();
+        await _dbSet.AddAsync(entity);
     }
 
-    public void AddRangeAsync(IEnumerable<T> entities)
+    public async Task AddRangeAsync(IEnumerable<T> entities)
     {
-        throw new NotImplementedException();
+        await _dbSet.AddRangeAsync(entities);
     }
 
-    public Task<bool> AnyAsync(Expression<Func<T>> expression)
+    public async Task<bool> AnyAsync(Expression<Func<T, bool>> expression)
     {
-        throw new NotImplementedException();
+        return await _dbSet.AnyAsync(expression);
     }
 
-    public IQueryable<T> GetAll(Expression<Func<T, bool>> expression)
+    public IQueryable<T> GetAll()
     {
-        throw new NotImplementedException();
+        return _dbSet.AsNoTracking().AsQueryable();
     }
 
-    public Task<T> GetByIdAsync(int Id)
+    public async Task<T> GetByIdAsync(int Id)
     {
-        throw new NotImplementedException();
+        return await _dbSet.FindAsync(Id);
     }
 
-    public void Remove(T enetity)
+    public void Remove(T entity)
     {
-        throw new NotImplementedException();
+        _dbSet.Remove(entity);
     }
 
     public void RemoveRange(IEnumerable<T> entities)
     {
-        throw new NotImplementedException();
+        _dbSet.RemoveRange(entities);
     }
 
     public void UpdateDate(T entity)
     {
-        throw new NotImplementedException();
+        _dbSet.Update(entity);
     }
 
     public IQueryable<T> Where(Expression<Func<T, bool>> expression)
     {
-        throw new NotImplementedException();
+        return _dbSet.Where(expression);
     }
 }
