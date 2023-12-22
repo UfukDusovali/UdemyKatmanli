@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Service.deps.json
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Service.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\bin\Debug\net8.0\UdemyKatmanli.Service.pdb
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.AssemblyInfo.cs
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.sourcelink.json
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\refint\UdemyKatmanli.Service.dll
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\UdemyKatmanli.Service.pdb
+C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Service\obj\Debug\net8.0\ref\UdemyKatmanli.Service.dll

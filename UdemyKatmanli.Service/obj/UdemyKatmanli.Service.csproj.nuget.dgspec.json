@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj": {}
+    "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj": {
+    "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj",
+        "projectUniqueName": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj",
         "projectName": "UdemyKatmanli.Service",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj",
+        "projectPath": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\UdemyKatmanli.Service.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\obj\\",
+        "outputPath": "c:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
