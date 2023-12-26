@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.API\\UdemyKatmanli.API.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Api\\UdemyKatmanli.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.API\\UdemyKatmanli.API.csproj": {
+    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Api\\UdemyKatmanli.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.API\\UdemyKatmanli.API.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Api\\UdemyKatmanli.API.csproj",
         "projectName": "UdemyKatmanli.API",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.API\\UdemyKatmanli.API.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Api\\UdemyKatmanli.API.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.API\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,12 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
             },

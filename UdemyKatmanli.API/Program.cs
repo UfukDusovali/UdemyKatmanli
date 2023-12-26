@@ -1,7 +1,11 @@
-
-
-
-using UdemyKatmanli.Repository;
+using System.Reflection;
+using Microsoft.EntityFrameworkCore;
+using UdemyKatmanli.Core.Repositories;
+using UdemyKatmanli.Core.Services;
+using UdemyKatmanli.Core.UnitOfWork;
+using UdemyKatmanli.Repository.ConDbContext;
+using UdemyKatmanli.Repository.Repositories;
+using UdemyKatmanli.Repository.UnitOfWork;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +15,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+//builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 
+builder.Services.AddDbContext<AppDbContext>(x =>
+{
+    x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>
+    {
+        option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
+    });
+
+});
 
 var app = builder.Build();
 
@@ -45,7 +60,7 @@ app.MapGet("/weatherforecast", () =>
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+record WeatherForecast(DateOnly Date, int TemperatureC, string Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
