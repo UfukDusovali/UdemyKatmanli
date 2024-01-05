@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj": {}
+    "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj": {
+    "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj",
         "projectName": "UdemyKatmanli.Core",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Core\\obj\\",
+        "projectPath": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Core\\UdemyKatmanli.Core.csproj",
+        "packagesPath": "C:\\Users\\Ufuk-L\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ufuk-L\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

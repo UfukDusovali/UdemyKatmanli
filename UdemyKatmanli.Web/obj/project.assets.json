@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\Ufuk-L\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Web\\UdemyKatmanli.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Web\\UdemyKatmanli.Web.csproj",
       "projectName": "UdemyKatmanli.Web",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Web\\UdemyKatmanli.Web.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\UdemyKatmanli\\UdemyKatmanli.Web\\obj\\",
+      "projectPath": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Web\\UdemyKatmanli.Web.csproj",
+      "packagesPath": "C:\\Users\\Ufuk-L\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ufuk-L\\UdemyKatmanli\\UdemyKatmanli.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ufuk-L\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

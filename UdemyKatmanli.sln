@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.API", "UdemyKatmanli.API\UdemyKatmanli.API.csproj", "{17820EC5-5B57-4A69-A749-4FCDB2B8B70E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.Caching", "UdemyKatmanli.Caching\UdemyKatmanli.Caching.csproj", "{5EDEB5EC-F83F-407E-9FA4-0DE4D32A7094}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.Core", "UdemyKatmanli.Core\UdemyKatmanli.Core.csproj", "{C65E487E-B7BA-4CE9-A11A-B957F970E4BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.Repository", "UdemyKatmanli.Repository\UdemyKatmanli.Repository.csproj", "{F9E2ED55-159A-4BD4-9216-C0318D90C740}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.Service", "UdemyKatmanli.Service\UdemyKatmanli.Service.csproj", "{38A5D88B-AE9D-49B2-BD58-9C35058A2201}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyKatmanli.Web", "UdemyKatmanli.Web\UdemyKatmanli.Web.csproj", "{7739B3FB-0FBA-40C1-8036-72140F13351E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17820EC5-5B57-4A69-A749-4FCDB2B8B70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17820EC5-5B57-4A69-A749-4FCDB2B8B70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17820EC5-5B57-4A69-A749-4FCDB2B8B70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17820EC5-5B57-4A69-A749-4FCDB2B8B70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDEB5EC-F83F-407E-9FA4-0DE4D32A7094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDEB5EC-F83F-407E-9FA4-0DE4D32A7094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDEB5EC-F83F-407E-9FA4-0DE4D32A7094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDEB5EC-F83F-407E-9FA4-0DE4D32A7094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65E487E-B7BA-4CE9-A11A-B957F970E4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65E487E-B7BA-4CE9-A11A-B957F970E4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65E487E-B7BA-4CE9-A11A-B957F970E4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65E487E-B7BA-4CE9-A11A-B957F970E4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E2ED55-159A-4BD4-9216-C0318D90C740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E2ED55-159A-4BD4-9216-C0318D90C740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E2ED55-159A-4BD4-9216-C0318D90C740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E2ED55-159A-4BD4-9216-C0318D90C740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A5D88B-AE9D-49B2-BD58-9C35058A2201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A5D88B-AE9D-49B2-BD58-9C35058A2201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A5D88B-AE9D-49B2-BD58-9C35058A2201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A5D88B-AE9D-49B2-BD58-9C35058A2201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7739B3FB-0FBA-40C1-8036-72140F13351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7739B3FB-0FBA-40C1-8036-72140F13351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7739B3FB-0FBA-40C1-8036-72140F13351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7739B3FB-0FBA-40C1-8036-72140F13351E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1E1538-3072-4236-AD6B-62FDF6344445}
+	EndGlobalSection
+EndGlobal

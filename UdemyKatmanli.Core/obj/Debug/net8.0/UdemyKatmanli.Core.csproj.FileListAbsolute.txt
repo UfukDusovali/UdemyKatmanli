@@ -10,3 +10,15 @@ C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKat
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\refint\UdemyKatmanli.Core.dll
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.pdb
 C:\Users\Dell\Desktop\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\ref\UdemyKatmanli.Core.dll
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\bin\Debug\net8.0\UdemyKatmanli.Core.deps.json
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\bin\Debug\net8.0\UdemyKatmanli.Core.dll
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\bin\Debug\net8.0\UdemyKatmanli.Core.pdb
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.AssemblyInfoInputs.cache
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.AssemblyInfo.cs
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.sourcelink.json
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.dll
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\refint\UdemyKatmanli.Core.dll
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\UdemyKatmanli.Core.pdb
+C:\Users\Ufuk-L\UdemyKatmanli\UdemyKatmanli.Core\obj\Debug\net8.0\ref\UdemyKatmanli.Core.dll
